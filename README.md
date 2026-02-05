@@ -3,12 +3,14 @@
 Welcome to my collection of data science projects.
 
 ## Projects
+* ### [Medical Examination Analysis](./MedData)
+  Exploratory Data Analysis (EDA) and health marker normalization.
+* ### [Cat vs. Dog Classifier](./CatsDogs)
+  Deep Learning with CNNs and Data Augmentation.
 * ### [Forum Page View Analysis](./PageViews)
   Visualizing forum growth trends using Python, Pandas, and Seaborn.
 * ### [Sea Level Analysis](./SeaLevel)
   Using Linear Regression to forecast global sea level rise through 2050 with Scipy and Matplotlib.
-* ### [Medical Examination Analysis](./MedData)
-  Exploratory Data Analysis (EDA) and health marker normalization.
 * ### [Machine Learning Specialization Course](./MLSpecialization)
   Course guided labs and assignments
 * ### [Self-Study Course Certifications](./Certs)
