@@ -7,6 +7,8 @@ Welcome to my collection of data science projects.
   Exploratory Data Analysis (EDA) and health marker normalization.
 * ### [Cat vs. Dog Classifier](./CatsDogs)
   Deep Learning with CNNs and Data Augmentation.
+* ### [Book Recommendation Engine](./BookRec)
+  Unsupervised Machine Learning using K-Nearest Neighbors.
 * ### [Forum Page View Analysis](./PageViews)
   Visualizing forum growth trends using Python, Pandas, and Seaborn.
 * ### [Sea Level Analysis](./SeaLevel)
