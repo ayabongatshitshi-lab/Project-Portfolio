@@ -28,9 +28,10 @@ This project involves building a **Convolutional Neural Network (CNN)** using **
 
 ---
 
-### View the Analysis: [View the Image Classifier Notebook](./fcc_cat_dog.ipynb)**
+### View the Analysis: [View the Image Classifier Notebook](./fcc_cat_dog.ipynb)
 
 ### Tech Stack
 *   **Framework:** TensorFlow 2.0, Keras
 *   **Libraries:** NumPy, Matplotlib
+
 *   **Techniques:** Convolutional Neural Networks (CNN), Data Augmentation, Image Preprocessing
