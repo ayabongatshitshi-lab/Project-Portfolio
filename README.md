@@ -3,7 +3,7 @@
 Welcome to my collection of data science projects.
 
 ## Projects
-* ### [SMS-Spam Classifier](.TextClas)
+* ### [SMS-Spam Classifier](./TextClas)
   Natural Language Processing (NLP) and binary text classification.
 * ### [Medical Examination Analysis](./MedData)
   Exploratory Data Analysis (EDA) and health marker normalization.
