@@ -12,8 +12,7 @@ This project visualises time series data from the freeCodeCamp.org forum. Using 
     * **Box Plots:** Visualises data distribution and seasonal variance.
 
 ## View the Analysis
-On GitHub, you can see the full code, data processing steps, and all generated charts directly in the notebook:
-
+See the full code, data processing steps, and all generated charts directly in the notebook:
 **[View the Jupyter Notebook](./PageViews00.ipynb)** 
 
 
@@ -21,3 +20,4 @@ On GitHub, you can see the full code, data processing steps, and all generated c
 * **Language:** Python
 
 * **Libraries:** Pandas, Matplotlib, Seaborn
+
