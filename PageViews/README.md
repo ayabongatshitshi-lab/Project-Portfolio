@@ -17,6 +17,7 @@ On GitHub, you can see the full code, data processing steps, and all generated c
 **[View the Jupyter Notebook](./PageViews00.ipynb)** 
 
 
-## Tech Stack
+## Stack
 * **Language:** Python
+
 * **Libraries:** Pandas, Matplotlib, Seaborn
