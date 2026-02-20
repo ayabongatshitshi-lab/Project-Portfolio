@@ -7,7 +7,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Technologies Used:** K-Nearest Neighbors (scikit-learn)
    - **Result:** The function returned accurate book recommendations with similarity scores.
 
-2. [Cats and Dogs Image Classifier](./Cats-Dogs%Image%20Classifier)
+2. [Cats and Dogs Image Classifier](./Cats-Dogs%20Image%20Classifier)
    - **Description:** The project builds a CNN to classify images of dogs and cats, achieving at least 63% accuracy.
    - **Technologies Used:** Convolutional Neural Network (TensorFlow, Keras)
    - **Result:** The model correctly classified test images with ≥63% accuracy.
