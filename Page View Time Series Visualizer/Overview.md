@@ -1,0 +1,3 @@
+**Page View Time Series Visualization**
+
+This project visualizes the time series data of freeCodeCamp.org forum page views from 2016-05-09 to 2019-12-03. Using Pandas, Matplotlib, and Seaborn, the project generates line charts, bar charts, and box plots to analyze daily, monthly, and yearly patterns, identify trends, and observe seasonality in forum traffic. The visualizations are created from a cleaned dataset with outliers removed, helping to uncover insights about user engagement over time.
