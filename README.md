@@ -12,17 +12,11 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Technologies Used:** Convolutional Neural Network (TensorFlow, Keras)
    - **Result:** The model correctly classified test images with ≥63% accuracy.
 
-  
+3. [SMS Spam Classifier](./SMS%20Spam%20Classifier)
+   - **Description:** The project builds a neural network with text vectorization to classify SMS messages as “ham” or “spam”.
+   - **Technologies Used:** Text vectorization and deep neural network (TensorFlow, Keras)
+   - **Result:** The model accurately predicts message labels on test data with reasonable reliability.
 
-
-### [SMS-Spam Classifier](./TextClas)
-  **Natural Language Processing:** Implemented a binary text classification model to distinguish between "ham" and "spam" messages using NLP techniques.
-### [Sea Level Analysis](./SeaLevel)
-  **Regression & Forecasting:** Utilized Scipy and Linear Regression to analyze historical trends and predict global sea level rise through 2050.
-### [Medical Examination Analysis](./MedData)
-  **Exploratory Data Analysis (EDA):** Performed feature engineering (BMI calculation) and data normalization to visualize correlations between health markers.
-### [Forum Page View Analysis](./PageViews)
-  **Time-Series Visualization:** Analyzed 3+ years of daily traffic data to identify growth trends and seasonal patterns using Matplotlib and Seaborn.
 
 ---
 
