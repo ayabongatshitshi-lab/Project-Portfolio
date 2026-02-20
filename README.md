@@ -22,6 +22,11 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Technologies Used:** Pandas, Matplotlib, Seaborn
    - **Result:** Cleaned and visualized data revealed yearly growth patterns, monthly trends, and seasonal variations in forum activity
 
+5. [Sea Level Predictor](./Sea%20Level%20Predictor)
+   - **Description:** The project analyzed historical global sea level data and predicted rise through 2050 using linear regression
+   - **Technologies Used:** Pandas, Matplotlib, SciPy
+   - **Result:** Generated trend lines predicting sea level rise based on both long-term (since 1880) and recent (since 2000) trends.
+
 
 ---
 
