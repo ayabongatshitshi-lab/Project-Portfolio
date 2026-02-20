@@ -17,7 +17,7 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Technologies Used:** TextVectorization and Deep Neural Network (TensorFlow, Keras)
    - **Result:** The model accurately predicts message labels on test data with reasonable reliability
    
-5. [Page View Time Series Visualizer](./Page%20View%20Time%20Series%20Visualizer)
+4. [Page View Time Series Visualizer](./Page%20View%20Time%20Series%20Visualizer)
    - **Description:** The project visualized daily page views of the freeCodeCamp forum using various plots to analyze trends and seasonality
    - **Technologies Used:** Pandas, Matplotlib, Seaborn
    - **Result:** Cleaned and visualized data revealed yearly growth patterns, monthly trends, and seasonal variations in forum activity
