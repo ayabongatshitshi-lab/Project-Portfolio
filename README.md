@@ -3,9 +3,9 @@
 Welcome to this repository, showcasing some of my self-learning projects spanning across basic computing, data science, and machine learning. 
 
 1. [Book Recommendation Engine](./Book Recommendation Engine)
-   **Description:**The project recommends 5 books similar to a given book using K-Nearest Neighbors.
-   **Technologies Used:**K-Nearest Neighbors (scikit-learn)
-   **Result:**The function returned accurate book recommendations with similarity scores.
+**Description:**The project recommends 5 books similar to a given book using K-Nearest Neighbors.
+**Technologies Used:**K-Nearest Neighbors (scikit-learn)
+**Result:**The function returned accurate book recommendations with similarity scores.
 
 
 
