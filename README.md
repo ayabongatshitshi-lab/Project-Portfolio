@@ -17,10 +17,6 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
 
 ### [SMS-Spam Classifier](./TextClas)
   **Natural Language Processing:** Implemented a binary text classification model to distinguish between "ham" and "spam" messages using NLP techniques.
-### [Cat vs. Dog Classifier](./CatsDogs)
-  **Computer Vision:** Developed a Convolutional Neural Network (CNN) using TensorFlow and Keras, utilizing Data Augmentation to improve model generalization.
-### [Book Recommendation Engine](./BookRec)
-  **Unsupervised Learning:** Built a recommendation system using the K-Nearest Neighbors (KNN) algorithm to suggest books based on user rating patterns.
 ### [Sea Level Analysis](./SeaLevel)
   **Regression & Forecasting:** Utilized Scipy and Linear Regression to analyze historical trends and predict global sea level rise through 2050.
 ### [Medical Examination Analysis](./MedData)
