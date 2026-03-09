@@ -2,7 +2,7 @@
 
 Welcome to this repository, showcasing some of my self-learning projects spanning across basic computing, data science, and machine learning. 
 
-1.[Breast Cancer Classification Predictive Model](./Classification%Predictive%Model%for%Breast%Cancer)
+1. [Breast Cancer Classification Predictive Model](./Classification%Predictive%Model%for%Breast%Cancer)
    - **Description:** The project compares the performance of a Decision Tree and KNN model for prediciting breast cancer diagnoses.
    - **Technologies Used:** Decision Tree, K-Nearest Neighbors
    - **Result:** KNN outperformed the Decision Tree, achieving 95% accuracy and 94% recall for Malignant cases on unseen data. 
