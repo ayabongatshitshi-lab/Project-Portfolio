@@ -6,7 +6,6 @@ Welcome to this repository, showcasing some of my self-learning projects spannin
    - **Description:** The project compares the performance of a Decision Tree and KNN model for prediciting breast cancer diagnoses.
    - **Technologies Used:** Decision Tree, K-Nearest Neighbors
    - **Result:** KNN outperformed the Decision Tree, achieving 95% accuracy and 94% recall for Malignant cases on unseen data. 
-   [Breast Cancer Classification Predictive Model](./Classification%20Predictive%20Model%20for%20Breast%20Cancer.pdf)
 
 2. [Book Recommendation Engine](./Book%20Recommendation%20Engine)
    - **Description:** The project recommends 5 books similar to a given book using K-Nearest Neighbors
