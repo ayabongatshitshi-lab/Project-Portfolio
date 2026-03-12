@@ -3,31 +3,34 @@
 Welcome to this repository, showcasing some of my self-learning projects spanning across basic computing, data science, and machine learning. 
 
 1. [Breast Cancer Classification Predictive Model](./Classification%20Predictive%20Model%20for%20Breast%20Cancer)
-   - **Description:** The project compares the performance of a Decision Tree and KNN model for prediciting breast cancer diagnoses.
+   - **Description:** The project compares the performance of a Decision Tree and KNN model for predicting breast cancer diagnoses.
    - **Technologies Used:** Decision Tree, K-Nearest Neighbors
-   - **Result:** KNN outperformed the Decision Tree, achieving 95% accuracy and 94% recall for Malignant cases on unseen data. 
-
-2. [Book Recommendation Engine](./Book%20Recommendation%20Engine)
+   - **Result:** KNN outperformed the Decision Tree, achieving 95% accuracy and 94% recall for Malignant cases on unseen data.
+2. [Bike Sharing Predicitve Model](./Bike%20Sharing%20Predictive%20Model)
+   - **Description:** The project compares the performance of Decision Tree and KNN Regression models for predicting hourly rented bike demand.
+   - **Technologies Used:** Decision Tree Regressor, K-Nearest Neighbors Regressor
+   - **Result:** Both models performed similarly, with the Decision Tree marginally outperforming KNN on test RMSE (339 vs 344), while KNN edged the Decision Tree on training RMSE (351 vs 355).
+3. [Book Recommendation Engine](./Book%20Recommendation%20Engine)
    - **Description:** The project recommends 5 books similar to a given book using K-Nearest Neighbors
    - **Technologies Used:** K-Nearest Neighbors
    - **Result:** The function returned the top-5 book recommendations with similarity scores
 
-3. [Cats and Dogs Image Classifier](./Cats-Dogs%20Image%20Classifier)
+4. [Cats and Dogs Image Classifier](./Cats-Dogs%20Image%20Classifier)
    - **Description:** The project builds a CNN to classify images of dogs and cats, achieving at least 63% accuracy
    - **Technologies Used:** Convolutional Neural Network (TensorFlow, Keras)
    - **Result:** The model correctly classified test images with 78% accuracy
 
-4. [SMS Text Classifier](./SMS%20Spam%20Classifier)
+5. [SMS Text Classifier](./SMS%20Spam%20Classifier)
    - **Description:** The project builds a neural network with text vectorization to classify SMS texts as “ham” or “spam”
    - **Technologies Used:** TextVectorization and Deep Neural Network (TensorFlow, Keras)
    - **Result:** The model accurately predicts message labels on test data with reasonable reliability
    
-5. [Page View Time Series Visualizer](./Page%20View%20Time%20Series%20Visualizer)
+6. [Page View Time Series Visualizer](./Page%20View%20Time%20Series%20Visualizer)
    - **Description:** The project visualized daily page views of the freeCodeCamp forum using various plots to analyze trends and seasonality
    - **Technologies Used:** Pandas, Matplotlib, Seaborn
    - **Result:** Cleaned and visualized data revealed yearly growth patterns, monthly trends, and seasonal variations in forum activity
 
-6. [Sea Level Predictor](./Sea%20Level%20Predictor)
+7. [Sea Level Predictor](./Sea%20Level%20Predictor)
    - **Description:** The project analyzed historical global sea level data and predicted rise through 2050 using linear regression
    - **Technologies Used:** Pandas, Matplotlib, SciPy
    - **Result:** Generated trend lines predicting sea level rise based on both long-term (since 1880) and recent (since 2000) trends.
