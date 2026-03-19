@@ -1,6 +1,6 @@
 ## Project Portfolio
 
-Welcome to this repository, showcasing some of my self-learning projects spanning across basic computing, data science, and machine learning. 
+Welcome to this repository, showcasing my completed projects spanning across basic computing, data science, and machine learning. 
 
 1. [Breast Cancer Classification Predictive Model](./Classification%20Predictive%20Model%20for%20Breast%20Cancer)
    - **Description:** The project compares the performance of a Decision Tree and KNN model for predicting breast cancer diagnoses.
