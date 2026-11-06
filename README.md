@@ -40,6 +40,6 @@ Welcome to this repository, showcasing my completed projects spanning across bas
 
 ### Certifications
 #### [Machine Learning Specialization Course](./ML%20Specialization%20Course)
-  A collection of guided labs and technical assignments covering supervised and unsupervised learning
+  A collection of guided labs and technical assignments covering supervised and unsupervised learning.
 #### [Course Certifications](./Course%20Certifications)
-  Documentation and certificates for completed data science and programming courses
+  Documentation and certificates for completed data science, machine learning, and AI courses.
